@@ -1,0 +1,12 @@
+#menu{
+    background-color: #fdfd79;
+}
+#nav{
+    text-decoration: none;
+    padding: 0 10px ;
+}
+#nav:hover{
+    background-color: antiquewhite;
+    border-radius: 20px;
+}
+

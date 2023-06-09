@@ -1,0 +1,30 @@
+/* footer.js */
+#item1{
+    padding-top: 50px;
+}
+#item1 li{
+    list-style: none;
+}
+#item2{
+    padding: 20px 30px;
+}
+#footer{
+    text-decoration: none;
+    color: white;
+
+}
+#footer:hover{
+    color: cornflowerblue;
+}
+.fa-brands{
+    padding: 8px;
+    margin: 20px;
+    transition-property: outline-offset, outline-color, background-color;
+    transition-duration: 0.25s;
+}
+.fa-brands:hover{
+    color: cornflowerblue;
+}
+#info{
+    padding:0 20px;
+}

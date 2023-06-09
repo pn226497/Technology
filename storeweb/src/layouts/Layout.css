@@ -1,0 +1,53 @@
+/* HomeLayout */
+#HomeLayout{
+    padding: 10px;
+}
+#card:hover{
+    box-shadow: 1px 5px 5px 0 rgb(186, 182, 182);
+}
+#image{
+    width: 240px;
+    padding: 13px 20px;
+    margin-left: 10px;
+    border-radius: 10%;
+    filter: grayscale(0%);
+    transition: 0.5s ease;
+    cursor: pointer;
+}
+#image:hover{
+    filter: grayscale(0%);
+    transform: scale(1.1);
+}
+#name{
+    text-decoration: none;
+    color: black;
+    
+}
+#name:hover{
+    color: cornflowerblue;
+}
+#namelaptop{
+    height: 74px;
+    overflow: hidden;
+    display: block;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 3;
+    
+}
+#icon{
+    
+    color: rgb(5, 54, 114);
+    padding: 5px;
+    margin-right: 5px;
+   
+}
+#rating{
+    display: flex;
+    justify-content: space-between;
+    padding:0 20px 20px 20px;
+}
+#price{
+    color: red;
+}
+
