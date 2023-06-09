@@ -1,6 +1,20 @@
 {
     "products": {
         "phone": [
+
+             {
+                "rating":"4.6",
+                "luotmua":"213",
+                "name": "Samsung Galaxy A24 6GB",
+                "price": 6090000,
+                "description": "Samsung Galaxy A24 6GB tiếp tục sẽ là mẫu điện thoại tầm trung được nhà Samsung giới thiệu đến thị trường Việt Nam vào tháng 04/2023, máy nổi bật với giá thành rẻ, màn hình Super AMOLED cùng camera 50 MP chụp ảnh sắc nét.",
+                "content": "Thiết kế hiện đại với tạo hình vuông vắnGalaxy - A24 được lấy cảm hứng thiết kế đến từ những mẫu điện thoại Galaxy dòng A được ra mắt trong năm 2023, máy có thiên hướng vuông vắn với tạo hình phẳng ở cả phần mặt lưng và bộ khung.",
+                "image": "https://cdn.tgdd.vn/Products/Images/42/274018/samsung-galaxy-a24-black-thumb-600x600.jpg",
+                "image1":"https://cdn.tgdd.vn/Products/Images/42/274018/Slider/vi-vn-samsung-galaxy-a24-6gb--(6).jpg",
+                "image2":"https://cdn.tgdd.vn/Products/Images/42/274018/Slider/vi-vn-samsung-galaxy-a24-6gb--(1).jpg",
+                "image3":"https://cdn.tgdd.vn/Products/Images/42/274018/Slider/22-2048x1144.jpg",
+                "id": "1"
+            },
             {
                 "rating":"4.6",
                 "luotmua":"213",
